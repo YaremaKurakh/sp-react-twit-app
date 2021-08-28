@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sp-react-twit-app/static/css/main.0cdb8492.chunk.css",
+    "main.js": "/sp-react-twit-app/static/js/main.76fb55b8.chunk.js",
+    "main.js.map": "/sp-react-twit-app/static/js/main.76fb55b8.chunk.js.map",
+    "runtime-main.js": "/sp-react-twit-app/static/js/runtime-main.f33ad96a.js",
+    "runtime-main.js.map": "/sp-react-twit-app/static/js/runtime-main.f33ad96a.js.map",
+    "static/css/2.d5e620ed.chunk.css": "/sp-react-twit-app/static/css/2.d5e620ed.chunk.css",
+    "static/js/2.17563570.chunk.js": "/sp-react-twit-app/static/js/2.17563570.chunk.js",
+    "static/js/2.17563570.chunk.js.map": "/sp-react-twit-app/static/js/2.17563570.chunk.js.map",
+    "static/js/3.7cab6aa5.chunk.js": "/sp-react-twit-app/static/js/3.7cab6aa5.chunk.js",
+    "static/js/3.7cab6aa5.chunk.js.map": "/sp-react-twit-app/static/js/3.7cab6aa5.chunk.js.map",
+    "index.html": "/sp-react-twit-app/index.html",
+    "static/css/2.d5e620ed.chunk.css.map": "/sp-react-twit-app/static/css/2.d5e620ed.chunk.css.map",
+    "static/css/main.0cdb8492.chunk.css.map": "/sp-react-twit-app/static/css/main.0cdb8492.chunk.css.map",
+    "static/js/2.17563570.chunk.js.LICENSE.txt": "/sp-react-twit-app/static/js/2.17563570.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f33ad96a.js",
+    "static/css/2.d5e620ed.chunk.css",
+    "static/js/2.17563570.chunk.js",
+    "static/css/main.0cdb8492.chunk.css",
+    "static/js/main.76fb55b8.chunk.js"
+  ]
+}
